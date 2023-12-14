@@ -1,3 +1,9 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+dbnavigator.xml
+misc.xml
+modules.xml
+RebaseSilm.iml
+vcs.xml
