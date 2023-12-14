@@ -1,0 +1,3 @@
+public class C10 {
+    private int icount = 100;
+}
